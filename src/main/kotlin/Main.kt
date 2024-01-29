@@ -17,7 +17,7 @@ fun main() {
 //
 // Opcionalmente se puede crear el método toString() para mostrar información sobre el rectángulo: override fun toString() = "".
 // (Pulsa Ctrl+o)
-//
+// se me ralla
 // En el programa principal, crear varios rectángulos. Mostarlos y mostrar por pantalla sus áreas y perímetros.
 // *
     val rectangulo1 = rectangulo("paco",12,34)
